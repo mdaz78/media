@@ -1,5 +1,26 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": "b8f9",
+      "name": "Lynette Armstrong"
+    },
+    {
+      "id": "5185",
+      "name": "Tasha Steuber"
+    },
+    {
+      "id": "ac2f",
+      "name": "Dr. Marcella Nienow"
+    },
+    {
+      "id": "372c",
+      "name": "Perry Walker Jr."
+    },
+    {
+      "id": "1e0e",
+      "name": "Mrs. Evelyn Hessel"
+    }
+  ],
   "albums": [],
   "photos": []
 }
