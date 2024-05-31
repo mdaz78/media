@@ -21,6 +21,37 @@
       "name": "Mrs. Evelyn Hessel"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": "2c77",
+      "usedId": "1e0e",
+      "title": "Unbranded Cotton Cheese"
+    },
+    {
+      "id": "6e60",
+      "usedId": "372c",
+      "title": "Generic Concrete Bike"
+    },
+    {
+      "id": "04cd",
+      "usedId": "372c",
+      "title": "Fantastic Fresh Ball"
+    },
+    {
+      "id": "807e",
+      "usedId": "1e0e",
+      "title": "Unbranded Bronze Fish"
+    },
+    {
+      "id": "6e90",
+      "usedId": "1e0e",
+      "title": "Modern Bronze Sausages"
+    },
+    {
+      "id": "1ffe",
+      "usedId": "1e0e",
+      "title": "Ergonomic Metal Chair"
+    }
+  ],
   "photos": []
 }
