@@ -25,7 +25,7 @@ export const photosApi = createApi({
           return {
             method: "POST",
             url: "/photos",
-            params: {
+            body: {
               albumId: album.id,
               url: faker.image.abstract(150, 150, true),
             },
